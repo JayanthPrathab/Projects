@@ -1,1 +1,1 @@
-# First-Project
+## Mini-project during Programming training
